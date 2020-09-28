@@ -1,10 +1,10 @@
-##### Understand the Problem Statement and business case 
-##### Import libraries and datasets
-##### Perform Exploratory Data Analysis
-##### Perform Data Cleaning
-##### Visualize the cleaned data
-##### Prepare the data by tokenizing and padding
-##### Understand the theory and intuition behind Recurrent Neural Networks
-##### Understand the theory and intuition behind LSTM
-##### Build and train the model
-##### Assess trained model performance
+##### 1- Understand the Problem Statement and business case 
+##### 2- Import libraries and datasets
+##### 3- Perform Exploratory Data Analysis
+##### 4- Perform Data Cleaning
+##### 5- Visualize the cleaned data
+##### 6- Prepare the data by tokenizing and padding
+##### 7- Understand the theory and intuition behind Recurrent Neural Networks
+##### 8- Understand the theory and intuition behind LSTM
+##### 9- Build and train the model
+##### 10- Assess trained model performance
