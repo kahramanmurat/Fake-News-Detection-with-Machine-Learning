@@ -12,6 +12,8 @@
 ##### 9- Build and train the model
 ##### 10- Assess trained model performance
 ```
+
+
 ### IMPORT LIBRARIES AND DATASETS
 ```!pip install --upgrade tensorflow-gpu==2.0
 !pip install plotly
